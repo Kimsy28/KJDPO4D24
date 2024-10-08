@@ -1,3 +1,0 @@
-<html>
-<body>
-<img src="Yali.JPEG" with="50" height="100">
